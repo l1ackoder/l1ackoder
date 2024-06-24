@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 👋 I'm l1ackoder</h1>
 
-<img width="100%" align="center" src="https://raw.githubusercontent.com/l1ack0der/l1ack0der/main/lv_0_20240622235329%20(3).gif" />
+<img width="100%" align="center" src="https://raw.githubusercontent.com/l1ackoder/l1ack0der/main/lv_0_20240622235329_3.gif" />
 <img align="left" src="https://komarev.com/ghpvc/?username=l1ackoder&label=Profile%20views&color=0e75b6&style=flat" /><br>
 
 <h3 align="center">I hack to secure 🛠️</h3>
