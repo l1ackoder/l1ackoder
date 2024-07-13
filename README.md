@@ -5,7 +5,8 @@
 <img width="100%" align="center" src="https://raw.githubusercontent.com/l1ackoder/l1ackoder/main/k.gif" />
 <img align="left" src="https://komarev.com/ghpvc/?username=l1ackoder&label=Profile%20views&color=0e75b6&style=flat" /><br>
 
-<h3 align="center">I hack to secure 🛠️</h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I+hack+to+secure+🛠️;" /></h3>
+
 <div align="center">
   <a href="https://www.youtube.com/@l1ackoder?sub_confirmation=1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
