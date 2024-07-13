@@ -1,4 +1,6 @@
-<h1 align="center">Hello World! 👋 I'm l1ackoder</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello World! 👋 I'm l1ackoder;" />
+</h1>
 
 <img width="100%" align="center" src="https://raw.githubusercontent.com/l1ackoder/l1ackoder/main/k.gif" />
 <img align="left" src="https://komarev.com/ghpvc/?username=l1ackoder&label=Profile%20views&color=0e75b6&style=flat" /><br>
