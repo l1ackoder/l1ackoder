@@ -30,22 +30,50 @@
 ---
 ###
 
-<h2 align="left">Skillset</h2>
+## 💻 Technical Expertise
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+<!-- TODO: edit these skillicons lists to match your actual stack -->
+<div align="center">
+
+| **Languages** | **Databases** |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=py,js,cpp,c" height="45"/> | <img src="https://skillicons.dev/icons?i=mysql" height="45"/> |
+| `Python` • `JS` • `C++` • `C` | `MySQL` | 
+
+| **DevOps & Cloud** | **Tools & IDEs** |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,bash" height="45"/> | <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma" height="45"/> |
+| `Docker` • `Git` • `Actions` • `Linux` • `Bash` | `VS Code` • `PyCharm` • `Figma` |
+
 </div>
 
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=arefinani" alt="GitHub Stats" />
+  </a>
+</p>
+
+  <div style="margin-bottom: 30px;">
+    <img 
+      src="https://streak-stats.demolab.com?user=arefinani&theme=dracula&hide_border=true" alt="GitHub Streak"
+      width="520"
+    />
+  </div>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/synqonic/synqonic/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/synqonic/synqonic/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/synqonic/synqonic/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+<div align="center">
+
+<a href="#top">
+  <img src="https://img.shields.io/badge/⬆️%20BACK%20TO%20TOP%20⬆️-FF69B4?style=for-the-badge&labelColor=0d1117&color=8A2BE2&logo=rocket&logoColor=white" />
+</a>
+
+<br><br>
 ###
 
 
