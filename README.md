@@ -54,6 +54,12 @@
   <img src="https://img.shields.io/badge/⬆️%20BACK%20TO%20TOP%20⬆️-FF69B4?style=for-the-badge&labelColor=0d1117&color=8A2BE2&logo=rocket&logoColor=white" />
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <br><br>
 ###
 
