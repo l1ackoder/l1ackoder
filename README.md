@@ -45,27 +45,8 @@
 | <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,bash" height="45"/> | <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma" height="45"/> |
 | `Docker` • `Git` • `Actions` • `Linux` • `Bash` | `VS Code` • `PyCharm` • `Figma` |
 
-</div>
-
-<p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=arefinani" alt="GitHub Stats" />
-  </a>
-</p>
-
-  <div style="margin-bottom: 30px;">
-    <img 
-      src="https://streak-stats.demolab.com?user=arefinani&theme=dracula&hide_border=true" alt="GitHub Streak"
-      width="520"
-    />
-  </div>
 
 ---
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/synqonic/synqonic/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/synqonic/synqonic/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/synqonic/synqonic/output/pacman-contribution-graph.svg">
-</picture>
 
 <div align="center">
 
