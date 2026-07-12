@@ -42,7 +42,7 @@ Security Enthusiast • Penetration Tester • Learner
 
 ## 💻 Technical Expertise
 
-<!-- TODO: edit these skillicons lists to match your actual stack -->
+
 <div align="center">
 
 | **Languages** | **Databases** |
