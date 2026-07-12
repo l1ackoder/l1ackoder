@@ -6,15 +6,6 @@
 
 <!-- <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I+hack+to+secure+🛠️;" /></h3> -->
 ---
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l1ack0der/l1ack0der/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/l1ack0der/l1ack0der/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/l1ack0der/l1ack0der/output/snake.svg" />
-</picture>
-</div>
-
-<div align="center">
     <b>Join Me - </b>
   <a href="https://dsc.gg/hackfams" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -54,11 +45,15 @@
   <img src="https://img.shields.io/badge/⬆️%20BACK%20TO%20TOP%20⬆️-FF69B4?style=for-the-badge&labelColor=0d1117&color=8A2BE2&logo=rocket&logoColor=white" />
 </a>
 
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l1ack0der/l1ack0der/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/l1ack0der/l1ack0der/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/l1ack0der/l1ack0der/output/snake.svg" />
 </picture>
+</div>
+
+<div align="center">
 
 <br><br>
 ###
